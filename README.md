@@ -1,8 +1,8 @@
-# Colab-GitHub Private Repo Setup
+# Colab-GitHub Private Repo Connection
 
 This repository provides a detailed guide for setting up a connection to a private GitHub repository from Google Colab. 
 
-### Step 1: Initial Configuration
+### Step 1: Setup
 
 Run the `step_1.ipynb` notebook and follow the instructions to set up your SSH keys and GitHub configuration. This setup needs to be completed only once.
 
