@@ -1,4 +1,4 @@
-# Colab-GitHub Private Repo Connection
+# Accessing Private GitHub Repositories in Google Colab
 
 This repository provides a detailed guide for setting up a connection to a private GitHub repository from Google Colab. 
 
