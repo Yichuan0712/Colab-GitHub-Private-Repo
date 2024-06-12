@@ -8,5 +8,5 @@ Run the `step_1.ipynb` notebook and follow the instructions to set up your SSH k
 
 ### Step 2: Everyday Use
 
-After you've completed the initial setup in `step_1.ipynb`, for all subsequent Colab sessions, you only need to use the code provided in `step_2.ipynb`. This notebook contains streamlined commands to quickly set up your environment with the existing SSH keys and connect to your private GitHub repositories.
+After you've completed the initial setup in `step_1.ipynb`, for all subsequent Colab sessions, you only need to run `step_2.ipynb` to set up your environment with the existing SSH keys and connect to your private GitHub repositories.
 
