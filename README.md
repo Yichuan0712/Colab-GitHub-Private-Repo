@@ -4,7 +4,7 @@ This repository provides a detailed guide for setting up a connection to a priva
 
 ### Step 1: Setup
 
-Run the `step_1.ipynb` notebook and follow the instructions to set up your SSH keys and GitHub configuration. This setup needs to be completed only once.
+Run the `step_1.ipynb` notebook and follow the instructions to set up your SSH keys and GitHub configuration. This setup only needs to be completed once.
 
 ### Step 2: Everyday Use
 
